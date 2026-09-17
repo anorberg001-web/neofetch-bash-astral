@@ -1,6 +1,3 @@
 #!/usr/bin/env bash
-set -euo pipefail
-
-mkdir -p .astral-build
-cp neofetch .astral-build/neofetch
-chmod 0755 .astral-build/neofetch
+# Removed: installation is no longer handled here.
+# The project ships with bin/neofetch directly.
