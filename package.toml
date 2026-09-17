@@ -1,1 +1,8 @@
+[metadata]
+name = "neofetch"
+version = "7.1.0"
+author = "dylanaraps"
+title = "Neofetch"
+description = "A command-line system information tool written in bash 3.2+"
 
+[dependencies]
